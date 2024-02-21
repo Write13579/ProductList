@@ -1,0 +1,36 @@
+body {
+  background-color: grey;
+}
+
+#inputs {
+  display: grid;
+  width: 20px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+}
+
+#productlist {
+  display: grid;
+  margin: auto;
+  border-radius: 10px;
+  padding: 0 15px;
+}
+
+td,
+tr {
+  border: 1px black solid;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
+  padding: 10px;
+}
+
+#submit {
+  margin-top: 20px;
+}
+
+.brama {
+  border: 8px black solid;
+}
